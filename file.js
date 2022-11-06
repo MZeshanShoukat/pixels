@@ -8,5 +8,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
     var y = document.getElementById('real-area').innerHTML;
     document.getElementById('real-area').remove();
     // document.getElementById('creativitylogic').innerHTML = y;
+    console.log('helo this is my')
 });
+console.log('and that also me')
 </script>
