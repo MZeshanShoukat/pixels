@@ -1,4 +1,3 @@
-<script>
 // dummy-area
 // real-area
 
@@ -11,4 +10,3 @@ document.addEventListener("DOMContentLoaded", function(event) {
     console.log('helo this is my')
 });
 console.log('and that also me')
-</script>
